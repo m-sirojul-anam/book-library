@@ -1,0 +1,7 @@
+200 httpStatus.OK request berhasil
+201 
+
+
+pada specification
+
+default path pada endpoint api
